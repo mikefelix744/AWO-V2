@@ -118,4 +118,4 @@ if submit:
         st.error(f"An error occurred during estimation: {e}")
 
 st.sidebar.markdown("---")
-st.sidebar.info("Tip: This is a demo with limited capabilities. More featires can be added")
+st.sidebar.info("Tip: This is a demo with limited capabilities. More features can be added")
