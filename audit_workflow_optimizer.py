@@ -64,8 +64,8 @@ def match_staff(staff):
     return staff_df
 
 # --- MAIN APP ---
-st.set_page_config(page_title="Audit Workflow Optimizer (Improved)", layout="wide")
-st.title("Audit Workflow Optimizer — Improved Demo")
+st.set_page_config(page_title="Audit Workflow Optimizer", layout="wide")
+st.title("Audit Workflow Optimizer — Prototype Demo")
 
 eng, staff = load_data()
 if eng is None or staff is None:
