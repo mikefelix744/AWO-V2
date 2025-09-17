@@ -1,0 +1,7 @@
+staff_id,name,level,skills,available_hours_per_week
+S001,Alice,Senior,"IFRS,Audit,FS",30
+S002,Bob,Manager,"Audit,IFRS,Consulting",35
+S003,Cynthia,Junior,"Audit,Data Analytics",40
+S004,David,Senior,"Forensics,Audit",25
+S005,Eve,Associate,"IFRS,Tax",30
+S006,Frank,Junior,"Audit,Excel",40
