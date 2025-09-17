@@ -118,4 +118,4 @@ if submit:
         st.error(f"An error occurred during estimation: {e}")
 
 st.sidebar.markdown("---")
-st.sidebar.info("Tip: You can upload your own data files for a custom analysis (feature coming soon).")
+st.sidebar.info("Tip: This is a demo with limited capabilities. More featires can be added")
